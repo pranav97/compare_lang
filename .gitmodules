@@ -7,3 +7,6 @@
 [submodule "go_linear"]
 	path = go_linear
 	url = https://github.com/pranav97/go_linear.git
+[submodule "rust-linear"]
+	path = rust-linear
+	url = https://github.com/pranav97/rust-linear.git
