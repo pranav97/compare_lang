@@ -4,3 +4,6 @@
 [submodule "linear_algebra"]
 	path = linear_algebra
 	url = https://github.com/pranav97/linear_algebra.git
+[submodule "go_linear"]
+	path = go_linear
+	url = https://github.com/pranav97/go_linear.git
