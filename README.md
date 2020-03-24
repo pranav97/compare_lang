@@ -8,7 +8,7 @@ There is a csv file called speedup.csv that has the latency of the single thread
 
 You can read more about it on my website or in my paper. 
 
-[Link to my webiste link](https://www.google.com)
+[Link to my webiste](https://pranav97.github.io/program_lang.html)
 
 
 
